@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+provider-api/target/
+rpc-core/target/
+
+# 项目排除路径
+/consumer/target/
+/provider/target/
+/rpc-client-spring-boot-starter/target/
+/rpc-server-spring-boot-starter/target/

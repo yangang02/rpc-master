@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.rrtv.rpc.server.config.RpcServerAutoConfiguration
+#starter的配置类就生效了，在配置类里配置一些需要的bean
